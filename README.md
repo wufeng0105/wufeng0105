@@ -100,7 +100,7 @@ DSH 插件精选列表，同时是 **npm 上的插件市场索引**。
 ## 📦 已归档
 
 <details>
-<summary><b>48 个历史项目</b>（点击展开）</summary>
+<summary><b>47 个历史项目</b>（点击展开）</summary>
 
 > 归档只冻结写入，代码与历史全部保留。需要哪个随时可以解归档。
 | 类别 | 项目 |
@@ -109,7 +109,7 @@ DSH 插件精选列表，同时是 **npm 上的插件市场索引**。
 | **开发工具** | [APIChecker](https://github.com/wufeng0105/APIChecker) · API 检查工具（75 commits）<br>[YuqueLake](https://github.com/wufeng0105/YuqueLake) · 语雀 Lake 格式转换工具集<br>[AtlasVault](https://github.com/wufeng0105/AtlasVault) · Obsidian 知识库模板 + Agent 维护工作流<br>[StableLink](https://github.com/wufeng0105/StableLink) · AI 客户端诊断与中转稳定性测试<br>[skills-hub](https://github.com/wufeng0105/skills-hub) · 跨平台 Agent Skill 管理器（Fork）<br>[skills-hub-sync](https://github.com/wufeng0105/skills-hub-sync) · Skill 同步<br>[docs](https://github.com/wufeng0105/docs) · Mintlify 文档站 |
 | **小工具** | [FapiaoKit](https://github.com/wufeng0105/FapiaoKit) · 发票处理<br>[IpPool](https://github.com/wufeng0105/IpPool) · IP 代理池<br>[KQuick](https://github.com/wufeng0105/KQuick) · Windows 快捷工具（C#）<br>[ClickLoop](https://github.com/wufeng0105/ClickLoop) · 桌面自动化（C#）<br>[RpaSkills](https://github.com/wufeng0105/RpaSkills) · RPA 技能框架<br>[AligenieMusic](https://github.com/wufeng0105/AligenieMusic) · 天猫精灵音乐台技能<br>[Wan27Image](https://github.com/wufeng0105/Wan27Image) · wan2.7 生图 CLI<br>[FpTools](https://github.com/wufeng0105/FpTools)<br>[lnmkshu](https://github.com/wufeng0105/lnmkshu) |
 | **浏览器扩展** | [GitBookmark](https://github.com/wufeng0105/GitBookmark) · GitHub 仓库收藏管理，AI 读 README 生成中文摘要<br>[YuqueMarkdownExporter](https://github.com/wufeng0105/YuqueMarkdownExporter) · 语雀 Markdown 导出<br>[ImpeccableExtension](https://github.com/wufeng0105/ImpeccableExtension) · 前端设计辅助<br>[KimiWebbridgeExtension](https://github.com/wufeng0105/KimiWebbridgeExtension) · Kimi 网页桥接 |
-| **DSH 早期版本** | [dsh-superpowers-v7](https://github.com/wufeng0105/dsh-superpowers-v7) · superpowers v7.0.1 的 15 个 skill<br>[dsh-enhance-private](https://github.com/wufeng0105/dsh-enhance-private) · `dsh-enhance` 的私有版<br>[dsh-purge-desktop](https://github.com/wufeng0105/dsh-purge-desktop) · 桌面端改造实验<br>dsh-plugin-process-lab-archive · 插件开发流程规格，已并入 `dsh-plugin-kit` |
+| **DSH 早期版本** | [dsh-superpowers-v7](https://github.com/wufeng0105/dsh-superpowers-v7) · superpowers v7.0.1 的 15 个 skill<br>[dsh-enhance-private](https://github.com/wufeng0105/dsh-enhance-private) · `dsh-enhance` 的私有版<br>[dsh-purge-desktop](https://github.com/wufeng0105/dsh-purge-desktop) · 桌面端改造实验 |
 | **知识与笔记** | [AiKnowledge](https://github.com/wufeng0105/AiKnowledge) · 多平台大模型知识库与 OCR 评测<br>[AicodemirrorScraper](https://github.com/wufeng0105/AicodemirrorScraper) · 站点爬虫<br>[SystemPromptCC](https://github.com/wufeng0105/SystemPromptCC) · 系统提示词中文社区 |
 | **其他** | [EcoPaste](https://github.com/wufeng0105/EcoPaste) · 上游 Fork（提 PR 用）<br>[ecopaste-ai-build](https://github.com/wufeng0105/ecopaste-ai-build) · EcoPasteAI 构建仓<br>[GoalRun](https://github.com/wufeng0105/GoalRun) · [Route](https://github.com/wufeng0105/Route) · [cli-setup-helper](https://github.com/wufeng0105/cli-setup-helper) · [PreDevPack](https://github.com/wufeng0105/PreDevPack) · [DocRegime-native](https://github.com/wufeng0105/DocRegime-native) · [codex-governance-method](https://github.com/wufeng0105/codex-governance-method) · [chatgptwebruntime](https://github.com/wufeng0105/chatgptwebruntime) · [ChatGPT-GitHub-Operator](https://github.com/wufeng0105/ChatGPT-GitHub-Operator) |
 
@@ -118,5 +118,5 @@ DSH 插件精选列表，同时是 **npm 上的插件市场索引**。
 ---
 
 <div align="center">
-<sub>活跃 11 · 归档 48 · 最近整理 2026-11</sub>
+<sub>活跃 11 · 归档 47 · 最近整理 2026-11</sub>
 </div>
