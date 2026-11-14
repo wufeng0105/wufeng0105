@@ -6,7 +6,7 @@
 把宿主里那些「改不了、看不见、说不清」的地方，做成能装、能验、能退出的东西。
 
 [![DeepSeek Harness](https://img.shields.io/badge/DeepSeek%20Harness-dsh-4B6BFB?style=flat-square)](https://github.com/deepseek-ai/deepseek-harness)
-[![Plugins](https://img.shields.io/badge/plugins-9-2ea44f?style=flat-square)](#-活跃项目)
+[![DSH Projects](https://img.shields.io/badge/DSH%20projects-9-2ea44f?style=flat-square)](#-活跃项目)
 [![Stars](https://img.shields.io/github/stars/wufeng0105/dsh-enhance?style=flat-square&label=stars&color=e3b341)](https://github.com/wufeng0105/dsh-enhance)
 
 </div>
@@ -15,7 +15,7 @@
 
 ## 现在在做什么
 
-主力方向是 **DSH 插件生态**。13 个在维护的仓库里，9 个是 DSH 插件，围绕一条主线：
+主力方向是 **DSH 插件生态**。12 个在维护的项目里，9 个与 DSH 直接相关（7 个插件 / 工具、1 份插件清单、1 套工程方法论），围绕一条主线：
 
 > 宿主的行为边界在哪、我怎么知道它真的改了、改完能不能退回去。
 
@@ -120,5 +120,5 @@ DSH 插件精选列表，同时是 **npm 上的插件市场索引**。
 ---
 
 <div align="center">
-<sub>活跃 13 · 归档 47 · 最近整理 2026-11</sub>
+<sub>活跃 12 · 归档 47 · 最近整理 2026-11</sub>
 </div>
